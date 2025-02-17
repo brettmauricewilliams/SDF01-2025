@@ -1,6 +1,6 @@
-# [SDF01] Challenge: My First Repo 🚀
+# My First Repo with Codespace 🚀
 
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Brett Williams
 
 🌱 Beginner Software Developer | 🚀 Excited to Learn & Build
 
@@ -66,9 +66,9 @@ Here are some of my milestone projects (to be updated as I progress!):
 
 ## 📫 Connect with Me
 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/yourusername)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
-📧 Email: [youremail@example.com](mailto:youremail@example.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/brettmauricewilliams)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brett-williams-5738a3195/)  
+📧 Email: [brettmaurice95@gmail.com](mailto:brettmaurice95@gmail.com)
 
 ---
 
@@ -80,4 +80,4 @@ Here are some of my milestone projects (to be updated as I progress!):
 
 ## 🏆 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brettmauricewilliams&show_icons=true&theme=radical)
